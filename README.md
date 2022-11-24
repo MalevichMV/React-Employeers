@@ -4,6 +4,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+To start this project, you need to write the command "npm i" in the project folder to use modules. 
+Then you need to write the "npm start" command to start the project.
+
+## Available Scripts
+
 In the project directory, you can run:
 
 ### `npm start`
